@@ -50,3 +50,13 @@ This is done using a program called Ettercap. We will be using the CLI only vers
 --------------------
 As soon as the arp poisoning is compltete , a wireshark window with root privilages will open up. You will then select your Network card and proceed to perfrom network analysis of the on coming traffic.
 
+Enjoy the prorgam , and remember the USER IS SOLELY RESPONSIBLE FOR THE USAGE OF THE PROGRAM. NOT THE AUTHOR
+
+Credits:
+--------
+*Creator: SureRouge502 <br/>
+*Email (In case you want to contact): chakravarthy5022@gmail.com<br/>
+*More of SureRouge502's work at:
+ https://github.com/SureRouge502
+
+
