@@ -1,6 +1,8 @@
 # Sniffy
 ---------
-Arp poisoning packet sniffer
+About :
+-------
+This program is created by SureRouge502. An Arp poisoning packet sniffer - which works using the help of tools such as Wireshark, Ettercap and Nmap
 
 # Installation
 --------------
